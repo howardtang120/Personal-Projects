@@ -1,7 +1,6 @@
 # CSV to DB merger
 #### Video Demo:  [link](https://youtu.be/cz_SF9zM6KQ)
 ## Introduction:
-Hello, my name is Chih-ho Howard Tang, from Taiwan.\
 My “CSV to DB merger” is a batch CSV to SQL database file converter. It reads multiple CSV files and writes them into a single SQL database, where the data is structured to be easily readable by computers for data analysis.
 
 ## Overview:
